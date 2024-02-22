@@ -1,7 +1,7 @@
-# 🚀 Welcome to CursorJS
+# 🚀 Welcome to Cursor.js
 Download The **Source File** To Get Started
 
-CursorJS is a lightweight JavaScript library for creating custom cursor effects on web pages. With CursorJS you can easily enhance user interactions by customizing the appearance and behavior of the cursor.
+Cursor.js is a lightweight JavaScript library for creating custom cursor effects on web pages. With CursorJS you can easily enhance user interactions by customizing the appearance and behavior of the cursor.
 
 ## Features
 
