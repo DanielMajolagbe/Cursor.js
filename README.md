@@ -1,5 +1,5 @@
 # Welcome to CursorFX
-Download The Source File To Get Started
+Download The **Source File** To Get Started
 
 CursorFX is a lightweight JavaScript library for creating custom cursor effects on web pages. With CursorFX, you can easily enhance user interactions by customizing the appearance and behavior of the cursor.
 
